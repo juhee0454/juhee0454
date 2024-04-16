@@ -1,6 +1,6 @@
 ### 안녕하세요 만나서 반가워요 👋
 
-##영남대학교 학생입니다
+###영남대학교 학생입니다
 
 <!--
 **juhee0454/juhee0454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
